@@ -16,7 +16,7 @@ const int humide = 239;
 //valeurs voulues pour certaines plantes
 const int eauPlante1 = 50;
 const int eauPlante2 = 10;
-const int eauPlante3 = 80;
+const int eauPlante3 = 80; 
 const int eauPlante4 = 0; 
 const int eauPlante5 = 20;
 
